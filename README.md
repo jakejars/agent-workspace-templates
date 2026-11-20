@@ -1,3 +1,5 @@
+> **This repository is archived.** It is replaced by [Agent Workspace Template](https://github.com/jakejars/agent-workspace-template). Use that one.
+
 # Agent-Workspace-Templates
 
 > **Never used a terminal?** Follow **[START-HERE.md](START-HERE.md)**: every step spelled out,
